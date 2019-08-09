@@ -1,13 +1,13 @@
 # stripelaravel
-stripe payment gateway integration in laravel 5.4
+stripe payment gateway integration in laravel 5.4. In this repo. you can do Payment with new card, Storing card for future use.
 
 ### Development Setup
 
-1. Clone the repository using git clone https://github.com/rajdipchauhan/stripelaravel.git. By default the master branch will be downloaded into a new directory called greenzebra.
+1. Clone the repository using git clone https://github.com/chauhanrajdip/stripelaravel.git. By default the master branch will be downloaded into a new directory called greenzebra.
 
 2. Run the setup commands, listed below
 ```
-$ git clone https://github.com/rajdipchauhan/stripelaravel.git
+$ git clone https://github.com/chauhanrajdip/stripelaravel.git
 $ cd stripelaravel
 $ composer install
 ```
